@@ -1,0 +1,14 @@
+D:\Programming\Projects\Microsoft\Visual Studio 2010\Projects\Backuplist Reader\Backuplist Reader\bin\Release\Backuplist Reader.exe.config
+D:\Programming\Projects\Microsoft\Visual Studio 2010\Projects\Backuplist Reader\Backuplist Reader\bin\Release\Backuplist Reader.exe.manifest
+D:\Programming\Projects\Microsoft\Visual Studio 2010\Projects\Backuplist Reader\Backuplist Reader\bin\Release\Backuplist Reader.application
+D:\Programming\Projects\Microsoft\Visual Studio 2010\Projects\Backuplist Reader\Backuplist Reader\bin\Release\Backuplist Reader.exe
+D:\Programming\Projects\Microsoft\Visual Studio 2010\Projects\Backuplist Reader\Backuplist Reader\bin\Release\Backuplist Reader.pdb
+D:\Programming\Projects\Microsoft\Visual Studio 2010\Projects\Backuplist Reader\Backuplist Reader\obj\x86\Release\Backuplist_Reader.Form1.resources
+D:\Programming\Projects\Microsoft\Visual Studio 2010\Projects\Backuplist Reader\Backuplist Reader\obj\x86\Release\Backuplist_Reader.Properties.Resources.resources
+D:\Programming\Projects\Microsoft\Visual Studio 2010\Projects\Backuplist Reader\Backuplist Reader\obj\x86\Release\Backuplist Reader.csproj.GenerateResource.Cache
+D:\Programming\Projects\Microsoft\Visual Studio 2010\Projects\Backuplist Reader\Backuplist Reader\obj\x86\Release\Backuplist Reader.TrustInfo.xml
+D:\Programming\Projects\Microsoft\Visual Studio 2010\Projects\Backuplist Reader\Backuplist Reader\obj\x86\Release\Backuplist Reader.exe.manifest
+D:\Programming\Projects\Microsoft\Visual Studio 2010\Projects\Backuplist Reader\Backuplist Reader\obj\x86\Release\Backuplist Reader.application
+D:\Programming\Projects\Microsoft\Visual Studio 2010\Projects\Backuplist Reader\Backuplist Reader\obj\x86\Release\Backuplist Reader.exe
+D:\Programming\Projects\Microsoft\Visual Studio 2010\Projects\Backuplist Reader\Backuplist Reader\obj\x86\Release\Backuplist Reader.pdb
+D:\Programming\Projects\Microsoft\Visual Studio 2010\Projects\Backuplist Reader\Backuplist Reader\obj\x86\Release\Backuplist Reader.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\Programming\Saves\Microsoft\Visual Studio 2010\Projects\Backuplist Reader\Backuplist Reader\bin\Debug\Backuplist Reader.exe
+D:\Programming\Saves\Microsoft\Visual Studio 2010\Projects\Backuplist Reader\Backuplist Reader\bin\Debug\Backuplist Reader.pdb
+D:\Programming\Saves\Microsoft\Visual Studio 2010\Projects\Backuplist Reader\Backuplist Reader\obj\x86\Debug\Backuplist_Reader.Form1.resources
+D:\Programming\Saves\Microsoft\Visual Studio 2010\Projects\Backuplist Reader\Backuplist Reader\obj\x86\Debug\Backuplist_Reader.Properties.Resources.resources
+D:\Programming\Saves\Microsoft\Visual Studio 2010\Projects\Backuplist Reader\Backuplist Reader\obj\x86\Debug\Backuplist Reader.csproj.GenerateResource.Cache
+D:\Programming\Saves\Microsoft\Visual Studio 2010\Projects\Backuplist Reader\Backuplist Reader\obj\x86\Debug\Backuplist Reader.exe
+D:\Programming\Saves\Microsoft\Visual Studio 2010\Projects\Backuplist Reader\Backuplist Reader\obj\x86\Debug\Backuplist Reader.pdb
+D:\Programming\Projects\Microsoft\Visual Studio 2010\Projects\Backuplist Reader\Backuplist Reader\obj\x86\Debug\Backuplist Reader.exe
+D:\Programming\Projects\Microsoft\Visual Studio 2010\Projects\Backuplist Reader\Backuplist Reader\obj\x86\Debug\Backuplist Reader.pdb
+D:\Programming\Projects\Microsoft\Visual Studio 2010\Projects\Backuplist Reader\Backuplist Reader\bin\Debug\Backuplist Reader.exe
+D:\Programming\Projects\Microsoft\Visual Studio 2010\Projects\Backuplist Reader\Backuplist Reader\bin\Debug\Backuplist Reader.pdb
+D:\Programming\Projects\Microsoft\Visual Studio 2010\Projects\Backuplist Reader\Backuplist Reader\obj\x86\Debug\Backuplist_Reader.Form1.resources
+D:\Programming\Projects\Microsoft\Visual Studio 2010\Projects\Backuplist Reader\Backuplist Reader\obj\x86\Debug\Backuplist_Reader.Properties.Resources.resources
+D:\Programming\Projects\Microsoft\Visual Studio 2010\Projects\Backuplist Reader\Backuplist Reader\obj\x86\Debug\Backuplist Reader.csproj.GenerateResource.Cache
