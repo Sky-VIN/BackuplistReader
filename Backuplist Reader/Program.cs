@@ -1,8 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Windows.Forms;
 
-namespace Backuplist_Reader
+
+namespace BackuplistReader
 {
     static class Program
     {
@@ -12,6 +12,8 @@ namespace Backuplist_Reader
         [STAThread]
         static void Main()
         {
+            RegistryHelper.Integrate(Application.ExecutablePath);
+
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new MainForm());

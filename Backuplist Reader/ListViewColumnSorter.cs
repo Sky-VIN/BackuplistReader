@@ -1,4 +1,4 @@
-﻿// https://support.microsoft.com/en-us/help/319401/how-to-sort-a-listview-control-by-a-column-in-visual-c
+﻿/* https://docs.microsoft.com/en-us/troubleshoot/developer/visualstudio/csharp/language-compilers/sort-listview-by-column */
 
 using System.Collections;
 using System.Windows.Forms;

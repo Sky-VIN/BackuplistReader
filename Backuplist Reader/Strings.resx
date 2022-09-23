@@ -112,19 +112,21 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="BrowsePath" xml:space="preserve">
     <value>Browse path</value>
   </data>
-  <data name="WarningText" xml:space="preserve">
-    <value>Now you must make choice folder from what need copy files to found items.
-Are you sure you want this?
+  <data name="WarningCopyInText" xml:space="preserve">
+    <value>Now you need to select the folder from which it will be copied to those found from the list.
+Files from the list will be overwritten with files located in the next selected folder!!!
+Continue?
 
 Сейчас нужно выбрать папку, из которой будет копироваться в найденые из списка.
+Произойдет перезапись файлов из списка на файлы находящиеся в следующей выбраной папке!!!
 Продолжать?</value>
   </data>
   <data name="CopyPath" xml:space="preserve">
@@ -139,7 +141,7 @@ Are you sure you want this?
   <data name="Invert" xml:space="preserve">
     <value>Invert selection</value>
   </data>
-  <data name="listMenuHelp" xml:space="preserve">
+  <data name="ListMenuHelp" xml:space="preserve">
     <value>Press SPACE to check / uncheck selected items</value>
   </data>
   <data name="NotFound" xml:space="preserve">
@@ -148,7 +150,7 @@ Are you sure you want this?
   <data name="OpenList" xml:space="preserve">
     <value>Open list</value>
   </data>
-  <data name="DoneSearch" xml:space="preserve">
+  <data name="SearchDone" xml:space="preserve">
     <value>Searching done</value>
   </data>
   <data name="SelectAll" xml:space="preserve">
@@ -163,16 +165,16 @@ Are you sure you want this?
   <data name="ClearFields" xml:space="preserve">
     <value>Clear fields</value>
   </data>
-  <data name="Copy" xml:space="preserve">
-    <value>Copy</value>
+  <data name="Copied" xml:space="preserve">
+    <value>Copied</value>
   </data>
   <data name="Create" xml:space="preserve">
-    <value>Create</value>
+    <value>Created</value>
   </data>
-  <data name="DoneCopy" xml:space="preserve">
-    <value>Copy done</value>
+  <data name="CopyDone" xml:space="preserve">
+    <value>Copying done</value>
   </data>
-  <data name="DoneCreate" xml:space="preserve">
+  <data name="CreateDone" xml:space="preserve">
     <value>Creating done</value>
   </data>
   <data name="Empty" xml:space="preserve">
@@ -181,7 +183,7 @@ Are you sure you want this?
   <data name="QuestionCaption" xml:space="preserve">
     <value>VIN: Question</value>
   </data>
-  <data name="QuestionText" xml:space="preserve">
+  <data name="ClearEventsQuestionText" xml:space="preserve">
     <value>Do you want clear Events too?</value>
   </data>
   <data name="SaveList" xml:space="preserve">
@@ -189,5 +191,29 @@ Are you sure you want this?
   </data>
   <data name="WarningCaption" xml:space="preserve">
     <value>VIN: Attention</value>
+  </data>
+  <data name="Zero" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Deleted</value>
+  </data>
+  <data name="CopyCancel" xml:space="preserve">
+    <value>Copying cancel</value>
+  </data>
+  <data name="SearchingCancel" xml:space="preserve">
+    <value>Searching cancel</value>
+  </data>
+  <data name="CreateCancel" xml:space="preserve">
+    <value>Creating cancel</value>
+  </data>
+  <data name="DifferentDrivesError" xml:space="preserve">
+    <value>Different drives to create hardlink</value>
+  </data>
+  <data name="FileExist" xml:space="preserve">
+    <value>File already exist </value>
+  </data>
+  <data name="UnknownError" xml:space="preserve">
+    <value>Unknown error</value>
   </data>
 </root>

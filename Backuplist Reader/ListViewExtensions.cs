@@ -1,4 +1,4 @@
-﻿// https://www.codeproject.com/Tips/734463/Sort-listview-Columns-and-Set-Sort-Arrow-Icon-on-C
+﻿/* https://www.codeproject.com/Tips/734463/Sort-listview-Columns-and-Set-Sort-Arrow-Icon-on-C */
 
 using System;
 using System.Collections.Generic;
@@ -6,7 +6,7 @@ using System.Text;
 using System.Runtime.InteropServices;
 using System.Windows.Forms;
 
-namespace Backuplist_Reader
+namespace BackuplistReader
 {
     internal static class ListViewExtensions
     {

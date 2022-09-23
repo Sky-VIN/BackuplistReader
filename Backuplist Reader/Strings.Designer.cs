@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Backuplist_Reader {
+namespace BackuplistReader {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace Backuplist_Reader {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Backuplist_Reader.Strings", typeof(Strings).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("BackuplistReader.Strings", typeof(Strings).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -79,6 +79,15 @@ namespace Backuplist_Reader {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Do you want clear Events too?.
+        /// </summary>
+        internal static string ClearEventsQuestionText {
+            get {
+                return ResourceManager.GetString("ClearEventsQuestionText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Clear fields.
         /// </summary>
         internal static string ClearFields {
@@ -88,11 +97,29 @@ namespace Backuplist_Reader {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Copy.
+        ///   Looks up a localized string similar to Copied.
         /// </summary>
-        internal static string Copy {
+        internal static string Copied {
             get {
-                return ResourceManager.GetString("Copy", resourceCulture);
+                return ResourceManager.GetString("Copied", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Copying cancel.
+        /// </summary>
+        internal static string CopyCancel {
+            get {
+                return ResourceManager.GetString("CopyCancel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Copying done.
+        /// </summary>
+        internal static string CopyDone {
+            get {
+                return ResourceManager.GetString("CopyDone", resourceCulture);
             }
         }
         
@@ -106,11 +133,38 @@ namespace Backuplist_Reader {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Create.
+        ///   Looks up a localized string similar to Created.
         /// </summary>
         internal static string Create {
             get {
                 return ResourceManager.GetString("Create", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Creating cancel.
+        /// </summary>
+        internal static string CreateCancel {
+            get {
+                return ResourceManager.GetString("CreateCancel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Creating done.
+        /// </summary>
+        internal static string CreateDone {
+            get {
+                return ResourceManager.GetString("CreateDone", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Deleted.
+        /// </summary>
+        internal static string Delete {
+            get {
+                return ResourceManager.GetString("Delete", resourceCulture);
             }
         }
         
@@ -124,29 +178,11 @@ namespace Backuplist_Reader {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Copy done.
+        ///   Looks up a localized string similar to Different drives to create hardlink.
         /// </summary>
-        internal static string DoneCopy {
+        internal static string DifferentDrivesError {
             get {
-                return ResourceManager.GetString("DoneCopy", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Creating done.
-        /// </summary>
-        internal static string DoneCreate {
-            get {
-                return ResourceManager.GetString("DoneCreate", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Searching done.
-        /// </summary>
-        internal static string DoneSearch {
-            get {
-                return ResourceManager.GetString("DoneSearch", resourceCulture);
+                return ResourceManager.GetString("DifferentDrivesError", resourceCulture);
             }
         }
         
@@ -169,6 +205,15 @@ namespace Backuplist_Reader {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to File already exist .
+        /// </summary>
+        internal static string FileExist {
+            get {
+                return ResourceManager.GetString("FileExist", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Invert selection.
         /// </summary>
         internal static string Invert {
@@ -180,9 +225,9 @@ namespace Backuplist_Reader {
         /// <summary>
         ///   Looks up a localized string similar to Press SPACE to check / uncheck selected items.
         /// </summary>
-        internal static string listMenuHelp {
+        internal static string ListMenuHelp {
             get {
-                return ResourceManager.GetString("listMenuHelp", resourceCulture);
+                return ResourceManager.GetString("ListMenuHelp", resourceCulture);
             }
         }
         
@@ -214,20 +259,29 @@ namespace Backuplist_Reader {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Do you want clear Events too?.
-        /// </summary>
-        internal static string QuestionText {
-            get {
-                return ResourceManager.GetString("QuestionText", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Save list.
         /// </summary>
         internal static string SaveList {
             get {
                 return ResourceManager.GetString("SaveList", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Searching done.
+        /// </summary>
+        internal static string SearchDone {
+            get {
+                return ResourceManager.GetString("SearchDone", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Searching cancel.
+        /// </summary>
+        internal static string SearchingCancel {
+            get {
+                return ResourceManager.GetString("SearchingCancel", resourceCulture);
             }
         }
         
@@ -250,6 +304,15 @@ namespace Backuplist_Reader {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Unknown error.
+        /// </summary>
+        internal static string UnknownError {
+            get {
+                return ResourceManager.GetString("UnknownError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to VIN: Attention.
         /// </summary>
         internal static string WarningCaption {
@@ -259,15 +322,26 @@ namespace Backuplist_Reader {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Now you must make choice folder from what need copy files to found items.
-        ///Are you sure you want this?
+        ///   Looks up a localized string similar to Now you need to select the folder from which it will be copied to those found from the list.
+        ///Files from the list will be overwritten with files located in the next selected folder!!!
+        ///Continue?
         ///
         ///Сейчас нужно выбрать папку, из которой будет копироваться в найденые из списка.
+        ///Произойдет перезапись файлов из списка на файлы находящиеся в следующей выбраной папке!!!
         ///Продолжать?.
         /// </summary>
-        internal static string WarningText {
+        internal static string WarningCopyInText {
             get {
-                return ResourceManager.GetString("WarningText", resourceCulture);
+                return ResourceManager.GetString("WarningCopyInText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0.
+        /// </summary>
+        internal static string Zero {
+            get {
+                return ResourceManager.GetString("Zero", resourceCulture);
             }
         }
     }
